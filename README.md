@@ -5,6 +5,7 @@
 ## 🚀 About Me
 I am a passionate and driven 3rd-year BTech student at SIT, Tumkur, with a strong interest in web development. I have experience in full-stack development and have worked on several projects, both independently and collaboratively.
 
+***
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Ge&theme=dark&hide_border=false&layout=compact)
 
 
