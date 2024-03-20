@@ -10,8 +10,6 @@ I am a passionate and driven 3rd-year BTech student at SIT, Tumkur, with a stron
 
 ## 🎯 Projects
 
-## 🎯 Projects
-
 
 [![Give4Good](https://img.shields.io/badge/Give4good-<COLOR>?style=for-the-badge)](https://give4-goods.vercel.app/) [![ParkNxt](https://img.shields.io/badge/ParkNxt-<COLOR>?style=for-the-badge)](https://github.com/Pratyush-Ge/ParkNxt_Full) [![E-Challan](https://img.shields.io/badge/E_Challan-<COLOR>?style=for-the-badge)](https://github.com/Pratyush-Ge/E-Challan) [![Portfolio](https://img.shields.io/badge/Portfolio-<COLOR>?style=for-the-badge)](https://pratyushghatole.vercel.app/) [![Tenzies](https://img.shields.io/badge/Tenzies-<COLOR>?style=for-the-badge)](https://tenziesdicegame-pratyush.vercel.app/) 
 
